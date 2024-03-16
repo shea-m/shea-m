@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hey there, I'm Shea 👋
 
+I am currently in my third year studying Applied Statistics and Mathematical Sciences at University of Toronto.
+
+- 🔭 I’m currently working on: Implementing Cryptographic Algorithms in Python
+- 🌱 I’m currently learning: Algebraic Cryptography and Statistical Analysis
+- 👨‍💻 Languages I Know: Python (Intermediate), R (Novice), Java (Basic), Bash (Basic), C (Basic)
+- 😄 Pronouns: He/Him
+
+Outside of school, you can find me rock climbing, hiking, mountain biking, reading, or playing games.
 <!--
 **shea-m/shea-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
