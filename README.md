@@ -2,8 +2,8 @@
 
 I am currently in my fourth year studying Applied Statistics and Mathematical Sciences at University of Toronto.
 
-- 🔭 I’m currently working on: Implementing Cryptographic Algorithms in Python
-- 🌱 I’m currently learning: Algebraic Cryptography and Statistical Analysis
+- 🔭 I’m currently working on: Regression Analysis and Survey Design
+- 🌱 I’m currently learning: Statistical Analysis
 - 👨‍💻 Languages I Know: Python (Intermediate), R (Novice), Java (Basic), Bash (Basic), C (Basic)
 - 😄 Pronouns: He/Him
 
