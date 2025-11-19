@@ -2,9 +2,9 @@
 
 I am currently in my fourth year studying Applied Statistics and Mathematical Sciences at University of Toronto.
 
-- 🔭 I’m currently working on: Experimental Design
-- 🌱 I’m currently learning: Statistical Analysis
-- 👨‍💻 Languages I Know: Python (Intermediate), R (Novice), Java (Basic), Bash (Basic), C (Basic)
+- 🔭 I’m currently working on: Prediction Competition
+- 🌱 I’m currently learning: Statistical Learning
+- 👨‍💻 Languages I Know: Python (Intermediate), R (Intermediate), Java (Basic), Bash (Basic), C (Basic)
 
 Outside of school, you can find me rock climbing, hiking, mountain biking, reading, or playing games.
 <!--
