@@ -1,9 +1,9 @@
 ### Hey there, I'm Shea 👋
 
-I am currently in my fourth year studying Applied Statistics and Mathematical Sciences at University of Toronto.
+I am currently in my final year studying Applied Statistics and Mathematical Sciences at University of Toronto.
 
-- 🔭 I’m currently working on: Prediction Competition
-- 🌱 I’m currently learning: Statistical Learning
+- 🔭 I’m currently working on: Enhancing my knowledge of R
+- 🌱 I’m currently learning: Applied Time Series Analysis; Bayesian Statistics 
 - 👨‍💻 Languages I Know: Python (Intermediate), R (Intermediate), Java (Basic), Bash (Basic), C (Basic)
 
 Outside of school, you can find me rock climbing, hiking, mountain biking, reading, or playing games.
