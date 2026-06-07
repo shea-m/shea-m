@@ -1,6 +1,6 @@
 ### Hey there, I'm Shea 👋
 
-I am incoming graduate student at the University of Colorado Denver, where I will be pursuing my Master of Science in Applied Statistics. Alongside my graduate courework, I will be completing training and research in genomic data science through the PATH-GDS fellowship. Additionally, I am an alumni of the University of Toronto, where I completed my Honours Bachelor of Science in Applied Statistics and Mathematical Sciences, graduating with High Disctinction.
+I am an incoming graduate student at the University of Colorado Denver, where I will be pursuing my Master of Science in Applied Statistics. Alongside my graduate courework, I will be completing training and research in genomic data science through the PATH-GDS fellowship. Additionally, I am an alumni of the University of Toronto, where I completed my Honours Bachelor of Science in Applied Statistics and Mathematical Sciences, graduating with High Disctinction.
 
 - 📚 I have experience with: Regression, Statistical Learning, Time Series Analysis, Bayesian Statistics, Stochastic Processes
 - 👨‍💻 Languages I Know: R, Python (Intermediate), Java (Basic), Bash (Basic), C (Basic)
