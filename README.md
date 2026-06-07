@@ -1,10 +1,11 @@
 ### Hey there, I'm Shea 👋
 
-I am currently in my final year studying Applied Statistics and Mathematical Sciences at University of Toronto.
+I am incoming graduate student at the University of Colorado Denver, where I will be pursuing my Master of Science in Applied Statistics. Alongside my graduate courework, I will be completing training and research in genomic data science through the PATH-GDS fellowship. Additionally, I am an alumni of the University of Toronto, where I completed my Honours Bachelor of Science in Applied Statistics and Mathematical Sciences, graduating with High Disctinction.
 
-- 🔭 I’m currently working on: Enhancing my knowledge of R
-- 🌱 I’m currently learning: Applied Time Series Analysis; Bayesian Statistics 
-- 👨‍💻 Languages I Know: Python (Intermediate), R (Intermediate), Java (Basic), Bash (Basic), C (Basic)
+- 📚 I have experience with: Regression, Statistical Learning, Time Series Analysis, Bayesian Statistics, Stochastic Processes
+- 👨‍💻 Languages I Know: R, Python (Intermediate), Java (Basic), Bash (Basic), C (Basic)
+- 🔭 I’m currently working on: Preparing for graduate school!
+- 🌱 I’m currently learning: about Statistical Genomics
 
 Outside of school, you can find me rock climbing, hiking, mountain biking, reading, or playing games.
 <!--
