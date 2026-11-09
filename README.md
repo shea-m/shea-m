@@ -1,9 +1,9 @@
 ### Hey there, I'm Shea 👋
 
-I am a first year graduate student at the University of Colorado Denver, where I am pursuing my Master of Science in Statistics. Alongside my graduate studies, I am also a scholar in the Pathways in Genomic Data Science fellowship where I am currently rotating in the Krishnan Lab at the University of Colorado Anschutz Medical Campus. Additionally, I am an alumni of the University of Toronto, where I received my HBSc with High Distinction in Applied Statistics and Mathematical Sciences.
+I am a first year graduate student at the University of Colorado Denver, where I am pursuing my Master of Science in Statistics. Alongside my graduate studies, I am also a scholar in the Pathways in Genomic Data Science fellowship where I am currently rotating in the Stanislawski Lab at the University of Colorado Anschutz Medical Campus. Additionally, I am an alumni of the University of Toronto, where I received my HBSc with High Distinction in Applied Statistics and Mathematical Sciences.
 
-- 🔭 I’m currently working on: Research in the Krishnan Lab
-- 🌱 I’m currently learning: Computation Biology and Genomics
+- 🔭 I’m currently working on: Research in the Stanislawski Lab
+- 🌱 I’m currently learning: Genetic Risk Prediction Methods
 
 Outside of school, you can find me rock climbing, hiking, mountain biking, reading, or playing games.
 <!--
